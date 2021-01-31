@@ -1,4 +1,4 @@
-package com.devil.premises.newsapp
+package com.devil.premises.newsapp.models
 
 data class NewsResponse(
         val articles: List<Article>,

@@ -1,4 +1,4 @@
-package com.devil.premises.newsapp
+package com.devil.premises.newsapp.models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

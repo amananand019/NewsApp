@@ -1,6 +1,6 @@
 package com.devil.premises.newsapp.api
 
-import com.devil.premises.newsapp.NewsResponse
+import com.devil.premises.newsapp.models.NewsResponse
 import com.devil.premises.newsapp.util.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET
